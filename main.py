@@ -20,9 +20,12 @@ text = '''
 
 print(text)
 
-# replace with your API token
-API_TOKEN = config.API_TOKEN
-print("API Token loaded!")
+# Check if the API_TOKEN exists in the config module
+if hasattr(config, 'API_TOKEN'):
+    API_TOKEN = config.API_TOKEN
+    print("API Token loaded!")
+else:
+    print("Error: API Token not found in the config module.")
 
 # URL of the file to transcribe
 FILE_URL = str(input("Enter the download link of the episode to be transcribed: "))

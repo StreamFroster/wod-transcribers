@@ -1,11 +1,11 @@
 # wod-transcribers
 The transcribing project for the World of Dragons podcast. We aim to create a transcript for every World of Dragons podcast episode!
 
-## Why?
+## Why? What's the Point?
 
 If you're looking for a certain topic or quote that the podcast hosts have said, this will make it a lot easier than having you relisten through hours of content. It would also make for a good dataset should one wants to perform analysis on the podcast easily (number of times a word has been said, most unique word, amount of curse words, etc.)
 
-~~This project also allows me to improve my python skills along with giving me a good reason to dive into audio-related ML stuff, so why not?~~
+This project also allows me to improve my python skills along with giving me a good reason to dive into audio-related ML stuff, so why not?
 
 ## Contributions
 
@@ -33,13 +33,22 @@ API_TOKEN = "YOUR_API_TOKEN"
 
 3. A new JSON file with the raw response data will be saved in `./transcriptions/wip/`
 
-4. Run the `process_api_data.py` and it will create a new `.txt` file using the data from the JSON file
-> File is created in `./transcriptions/wip/`
+4. Run the `generate_transcript.py` and it will create a new `.txt` file using the data from the JSON file
+> File is created in `./transcriptions/`
 
 5. A human editor goes through the generated `.txt` file to check for errors
+> First, check if the labelled speakers are correct. If they aren't you may need to swap out the names through the use of a Find and Replace function in your text editor
 > Additionally add [Indicators] like [Laughter] or [Sighs] as it is not included in the response data 
 
-6. Once complete, finished transcript should moved to `./transcriptions/`
+# Transcript Status
+
+These episodes already have their audio data sent for AI transcription:
+
+1. knight's fire
+2. how to train your dragon
+3. nimona
+4. scales of empire
+5. guardian of empire
 
 ## Buzzsprout link
 https://worldofdragons.buzzsprout.com/

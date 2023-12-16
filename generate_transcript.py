@@ -1,7 +1,12 @@
 import json
 
+# Ask the user for the file to process
+
+targetFile = str(input("Provide the path of the file that contains the API response data that you want to process: "))
+print("Looking for file " + targetFile)
+
 # Load the JSON response from the API
-with open("transcription_result.json", "r") as json_file:
+with open(targetFile, "r") as json_file:
     transcription_result = json.load(json_file)
 
 # Extract the "words" array from the JSON
@@ -54,8 +59,16 @@ for word in words:
 if current_start_time is not None:
     alternating_lines.append((current_speaker, current_start_time, current_line.strip()))
 
+outputFile = str(input("Provide the name for the output file: "))
+destinationTargetFile = "transcriptions/" + outputFile + ".txt"
+
+print(destinationTargetFile)
+
+f = open(destinationTargetFile, "x")
+f.close()
+
 # Write alternating lines with timestamps in hours, minutes, and seconds to a text file
-with open("transcription.txt", "w") as txt_file:
+with open(destinationTargetFile, "w") as txt_file:
     for speaker, start_time_hms, line in alternating_lines:
         speaker_name = speaker_mapping.get(speaker, "Unknown")
         txt_file.write(f"{speaker_name} ({start_time_hms}): {line}\n\n")

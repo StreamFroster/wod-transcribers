@@ -1,0 +1,914 @@
+Bantam (00:01:22): It is working this time.
+
+Rei (00:01:27): All right. I already did the intro. I'm not going to welcome you guys again. You're already sitting down. Sit back down.
+
+Dillitan (00:01:29): Sit back down.
+
+Rei (00:01:47): Just people filing into their seats. Dylan's like, wait, got to redo it. And they all stand up to leave the room like, nope, sit your ass down. Anyway. So, yes, as I said, I have two sleepy boys here. Bantam disdains that, and Dillatan agrees with it. And he didn't notice that he wasn't recording until he tried to agree with it.
+
+Bantam (00:01:48): And I'm still going to agree with.
+
+Rei (00:02:07): It because, fuck yeah, these two get kind of eager to do games and movies and whatnot, but they are much fewer in quantity compared to books. So I become like, I don't want to say slave driver, but I'm evil owner.
+
+Bantam (00:02:09): You drive pretty hard.
+
+Rei (00:02:11): I do drive, motherfucker.
+
+Bantam (00:02:14): Shifting into overdrive with the nitro going.
+
+Rei (00:02:37): Yeah, this episode, we are going to be doing the second book in the scales of Empire series. No, the Dragon Empire series. Fucking hell. Whatever. The book is called. Guardian of Empire by Kylie Chan. I need to make sure I just have the Goodreads page open every time we quit now so I can get this shit right.
+
+Dillitan (00:02:39): The cats did nothing wrong.
+
+Rei (00:02:41): Spoiler. They did everything wrong.
+
+Bantam (00:02:44): They kind of did a lot of things wrong.
+
+Dillitan (00:02:49): Yeah, I got thoughts on that, but we'll save that.
+
+Rei (00:03:06): And Goodreads is not loading. So whatever. We just hope what I said is correct and I'll figure that later. Okay. But, yeah, before we get into that, I guess I should have asked you guys before we recorded, do we actually have Dragon news?
+
+Dillitan (00:03:09): I don't think so.
+
+Rei (00:03:47): If anything important has happened in the world of Dragon Media. We have not heard about it yet, no. But the closest thing to Dragon news is I've been getting emails from one of the Kickstarters that I backed, which is called wormlings. It's a tabletop game, like DND, but you're meant to play as a bunch of baby dragons and you go on adventures. And I don't know how good it's going to be, but I'm excited to try it. Maybe we'll like four hour, not live stream, but an actual play release that as a bonus episode. We'll see when I get the book, finally, the PDF and read it. We'll see if that's something worth doing.
+
+Bantam (00:03:50): Give me digital.
+
+Rei (00:03:51): PDF is digital.
+
+Dillitan (00:03:54): Yeah, PDF is digital.
+
+Rei (00:03:57): It's the middle word.
+
+Dillitan (00:04:05): PDF stands for pretty digital. Fucker.
+
+Rei (00:04:07): Do Itown's confused now.
+
+Bantam (00:04:09): I'm very confused.
+
+Rei (00:04:18): I don't know. A printable document file. I don't fucking know. Portable document format.
+
+Dillitan (00:04:18): Okay.
+
+Rei (00:04:29): I had to know it was going to bother me. So that's the closest thing to Dragon news we have. Just because we have not been paying attention, our heads have kind of been in the sand because a couple of games have come out that have completely destroyed our free time.
+
+Dillitan (00:04:31): Oh, yeah.
+
+Rei (00:04:50): Which is why I want to apologize that these episodes are coming out a bit late. I got, like, two more at the time of recording right now. I got two more. I got to edit and upload, so falling a little bit behind, but that's okay. I'll catch up. We'll catch up in October when we basically pause recording anyway.
+
+Dillitan (00:05:16): Yeah. Baldur's gate three came out, which Ray and I have been drowning in for a bit. And then for me personally, armored core six just came out. I'm almost done with my third and final playthrough. And then in eight days, Starfield comes out, and then a month after that, the new cyberpunk DLC. It's crazy for gaming right now.
+
+Rei (00:05:52): Yeah. For me, on my end, I just got book of hours, which is a sequel. Question mark to cultist Simulator. It's made by the same people, and it takes place in the same universe. It's got a lot of reused assets like the little icons and whatnot. But the gameplay, I would not call it a sequel, but it's still really fun. You still got the crazy Cthulhu adjacent lore going on. I think he made up all the lore himself. If it's referencing anything from old mythologies, I don't know about it, but it's definitely lovecraftian in feel.
+
+Dillitan (00:06:08): I took a peek at his gameplay while he was playing last night and it looks like Fallout vault dweller or whatever that. Fallout shelter. It looks like Fallout Shelter with like a hotel scene from the side with like hundreds different size rooms.
+
+Rei (00:07:38): So I'm going to go on like a three minute tangent real fast because I like the game and I'm going to shill it. The original quota simulator was. The gameplay was you were basically on a tabletop and you had cards and the cards would go into slots and they would do things. For example, you would put your heart card into work in order to go and work to make money. You would put books like you got cards that represented books, you put them into your study or you read or something. You had another verb slot, but you slot the book into that slot to read it. And then you would get knowledge out of it. And the knowledge itself is represented as a card because then you have to use the knowledge with work to do rituals and stuff. It was basically put cards into slots and things happen. The sequel, question mark gameplay is very similar in the sense that you have cars and you put them into slots and things happen, but there are much fewer slots and there is also no time limit. Like in the first game you had a recurring 62nd clock that would take money from you every 60 seconds and if you ran out, then you would start to starve. You also had like a police people that were after you and if you did too many culty things, they would catch you and you would lose that way. There seem to be no fail states in this and it's kind of just really peaceful. And there are less slots to put stuff in, but there are more things to put into the slots. So it becomes a lot more of a giant mass puzzle and trying to figure stuff out.
+
+Dillitan (00:07:41): I do like games with no fail states.
+
+Rei (00:07:58): Yeah, maybe one day I'll sit down and I'll actually show you from the beginning how to play it and maybe you'll be like, you know what, this seems pretty interesting. Doubt it's a chill, relaxing quote. Library simulator with no fail states and a whole bunch of achievements and check marks to go through.
+
+Bantam (00:08:00): You lost me at library simulator.
+
+Dillitan (00:08:06): He got me at check marks and achievements, though. I fucking love check marks.
+
+Rei (00:08:24): Like, I just got the achievement for restoring the abbey all the way to the top spire. Only 6% people have that so far. But yeah. What have you been up to, Dilla Ten Bentman? I have just explained the games we've lost ourselves in pretty much the same.
+
+Bantam (00:08:44): I mean, we go through armored core six and then replaying armored core nexus while listening to the audiobook. And me and Abbycak were on a quest to try to get command and conquer generals multiplayer working. But the net code is so fucked up. We have basically failed at every turn.
+
+Rei (00:08:46): There's no make a proper sequel.
+
+Bantam (00:08:54): I never that all they need to do is just fix the code for the original game and then resell it. I'd fucking buy it.
+
+Rei (00:09:06): Sadly, I think rts are on the decline. They're not dead. They're still a very devoted fan base, but as far as popularity amongst the masses, they're on decline. More people getting into faster paced stuff like shooters.
+
+Bantam (00:09:37): Well, that's because the developers are focusing more on rts multiplayer than actual catering to the casual player base, which is like more than 80% of all RTS players. But there is a resurgence. Tempest rising is coming out soon, which is like a clone of command and conquer, which I'm really excited for. There's zero something that's also coming out that's got a lot of very prominent RTS players working hand to hand trying to optimize it.
+
+Rei (00:09:39): We shall see.
+
+Bantam (00:09:41): No, I think it's going to make a comeback.
+
+Rei (00:09:47): Just give it time and destroy all mobile phones. Kids these days aren't patient enough for its.
+
+Dillitan (00:09:50): They really aren't.
+
+Rei (00:10:05): I guess that's all what's happening in our lives going on. We can get up into the book review. Yeah, I'm trying to think with this being a sequel. I don't know. Do we need to have like a spoiler free part?
+
+Bantam (00:10:08): We really don't.
+
+Rei (00:10:24): I guess the fastest of spoiler free parts is just to me asking you two, you enjoyed the first one because I asked if you want to continue into this thing. You said yes. Do you regret that? Did it live up to expectations? Is it a worthy sequel? Just in general?
+
+Bantam (00:10:27): I didn't really have any expectations going into the sequel, but it didn't really let me down.
+
+Dillitan (00:10:49): So it's like, yeah, not to stomp all over your ray, but. But neither Dillitan or. I feel like I'm confident in speaking for Dillitan here. We're never excited or anticipating going into another book. Yeah, we're never like, oh boy, I can't wait to find out what happens in the sequel.
+
+Rei (00:10:59): Okay, well, pretend you're excited for the sake of the review. Well, I'm going to kick you out and I'm going to get trace, Nix and Taryn to be on my show.
+
+Dillitan (00:11:44): I didn't like this book as much as the first one in a lot of politics. And the personality flaws that I found with the main character, Zhang, or however you say her name, were way worse in this book. And what I mean by personality flaw, well, not really personality flaws, but just writing flaws. I guess the most awful, horrible shit was happening to her, around her. And then in the very next page, she's just like, hey, what's up? It's great to be back. Horrible things happen to her, and then it's like someone just bashes her upside the head, and she forgets the last 20 minutes, and then she just goes on like everything's peachy keen. And I don't like that.
+
+Rei (00:11:46): Yeah.
+
+Dillitan (00:12:23): I also don't like the. And this is not the author's fault, but the narrator who I praised in the last episode, the little personality quirks that she gives each character starting to show through in an annoying way. There was one word in particular that I had to pause because I was so disgusted with just the way she pronounced it. Someone refused to do something, and Jiang called them a coward. But the narrator went, coward. And it's like. It was just one word, and she's like, coward. And it's like, no one says it like that.
+
+Rei (00:12:24): Maybe some people do.
+
+Dillitan (00:12:54): It's so british. I hate it. And also, the cat voices were starting to grade on me because there were more of them. I guess the thing was, there was only, like, three or four cats in the first book, and they had very bit parts, so she kind of just used the same voice for all of them. But in this one, there's many more cats and with different personalities. So she tried to give them all different voices, and they were grading. I could not stand listening to them.
+
+Rei (00:13:30): Well, I'm sorry. I enjoyed this rendition of cats. As far as to comment on your comment of how she gets over things way too fast or whatever, I will say that from what I can remember, like I said, I read this series, like, two or three months ago while scouting it out, and I didn't bother rereading it because it was so close that I would have been kind of draggy. But I remember the first book definitely felt like one large storyline, like, things happened. You start at a and you end up at b, and you just. You went, it was a story, right?
+
+Dillitan (00:13:31): Yeah.
+
+Rei (00:13:59): This almost felt more like a slideshow. Like, it's a collection of, hey, here's 20 different scenes. Some of them will be tied together lightly, and by the time you get to the end of it, you'll see the hidden storyline between them all. But for the most part, it's a slideshow of different scenes. We've got like Jiang falling in love and John going to this planet to do this vacation thing, and then her doing this thing with the cats and her doing this thing on the dragon home. Right. It jumped around a whole lot.
+
+Dillitan (00:14:01): It felt like a book of side quests.
+
+Rei (00:14:58): Yeah. And while I personally am generally okay with scene collections, slideshows, side quests, whatever you want to call it, some people can think that it feels like filler and start to not like it. I enjoy it because it helps develop characters and I just like seeing a slice of life kind of stuff. But one thing that the book didn't do very well is explaining how much time passes between each of these scenes. And that may be why you feel like she got over so fully fast. Maybe it's like after this horrendous thing, two years have passed full of counseling and therapy and mark just deleting memories from her brain. And so that's why in the next scene she seems completely fine with it because it's been a long time and she's gotten the help she needs from it. But the book does not do a good job explaining that. And so it does feel like she bounces back really fast sometimes.
+
+Dillitan (00:15:16): Yeah, I guess it. And the other thing is that Ray tried to devil's advocate for the book, which is a fair assessment, which is that the mark sphere has the ability to erase memories, like, just straight up like, oh, this was traumatizing for you. Boom. Now you don't remember.
+
+Rei (00:15:21): At one point, David flat out asks for it, so you know he can do it and has done it.
+
+Dillitan (00:16:23): Yeah. And it's like, Ray and I were discussing it while making dinner today, and it was that there's probably two things that the author just kind of forgot to explain, which is time gaps, and expecting the reader to just assume an event happened, like, with the removal of memories. I don't know how spoiler it is, so you can feel free to cut this, but there's one scene where Zhang is captured by the cats and she comes across a dead body that has been rotting in the cell, and she's just, like, overwhelmed by the odor. And she's just like, oh, God, she must have been dead for days or weeks or whatever. And then in the very next scene, she's just like, whatever. We're on an aquaplanet helping Octopus people breed. It's all cool. I'm going to go get my swimsuit. And it's like, do you just not have any empathy left. Like, are you incapable of feeling anything?
+
+Rei (00:16:33): I definitely feel like there's enough time skip to help her get over it. But there's a good chance that her being military and having to deal with all the shit she's been dealing with, maybe she has become a little soul numbed.
+
+Bantam (00:16:42): Not the fact immortality basically renders the passage of time irrelevant. The author doesn't. Since they can live forever, a few years is nothing to them.
+
+Dillitan (00:16:46): Yeah, that's actually another problem I have with the book.
+
+Bantam (00:16:48): Oh, yeah, it's a very big problem.
+
+Dillitan (00:17:16): The immortality shit, they're using it as a way for them to brutally kill off people and be like, oh, no, it's fine. Because soul stones. And it's like, then none of these deaths matter. And the real deaths, the full deaths or whatever they call them, the true death, those are what matter, but they're used just as often as they would in any typical fantasy book. So the immortality thing is just filler and nonsense.
+
+Rei (00:17:18): You finish.
+
+Dillitan (00:17:31): That's all I was going to say was just that it feels like every time they kill a character, they could have just as easily not killed a character. And every time they describe and, oh, God, it's the full death, just have a character die at that point, get rid of the whole immortality thing entirely.
+
+Rei (00:18:51): Yeah. So I have a weird love hate relationship with the immortality, the soul stones and all that. I like it because personally, who wouldn't want to live, quote, forever? Or at least as long as you want to, right? Because there's so much in the universe to experience, and it would be great to meet a civilization that exists across several galaxies, and they're like, hey, we can let you live as long as you want. So you can go and visit all these planets and do whatever you want, right? Big ass bucket list all the time, and they will take care of it. It's great, right? But the way that this book handled it or dealt with it or used it to try to create, like you said, fake tension, fake drama in some of these scenes made it feel, like, gross. I guess. I think it's fairly early on, within the first half at least, where the bug alien has them babies, the bugs that have, like three people conjoined in one. It's like super siamese twins, and that's like their natural state or whatever. And then these little energy beings that are like, we could just split them up. That seems super easy. And they have to try to explain to these energy beings that, no, you can't just split up physical beings because they will die. And she proves it by, like, here, do it to me. I'll show you how deadly it is. And then dead. Right? It's like such a fucking slap on the wrist, and it's like, that felt, like, dumb and not necessary.
+
+Bantam (00:18:56): Actually. It's a good point. Dragonstruck becomes completely irrelevant if you're immortal.
+
+Dillitan (00:19:08): Yeah, they actually do describe, at some point in the book, some character asks, like, what if you die and you're put into a new body? Are you still dragonstruck? She's like, yeah, I think it has to do with your soul. And it's like, what the fuck does that mean?
+
+Rei (00:20:03): No, I could see it. It really is a really weird. That's a mess. That the immortality did kind of bring up, like, dragonstruck in the first book was like, it's a great concept. I loved it. I love the idea of thinking that I've caused some people to be dragonstruck with me because then they can never leave and I won't be lonely anymore. Tiny violin. Pat. Pat. But, yeah, I know, right? But then, yeah, once you bring the immortality into it, it's now it's like, how dangerous is it actually? Is it actually like a soul blight, like they said? Because that's a little weird. Because that implies then, because in the first book, the explanation of what the soul was, it's a remnant of the big bang. I don't know, some wavelength that the physical body happens to be a receiver for. It was how they explained it or something.
+
+Bantam (00:20:05): It's like a type of signal.
+
+Rei (00:20:56): Yeah, but the point is, like, the body is like the receiver. And so to me, that came across as them trying to validate reincarnation. Like, you die, that physical body dies. The soul drifts off until it finds another body that's compatible with it. Right? So reincarnation. So the point is, when that happens, is your reincarnated body dragonstruck now because your soul has been dragonstruck? It's like some weird, messy things came because of them wanting to do the immortality. And I don't think this is a spoiler, but the immortality gets abused a bit more in the third book as far as the sheer span of time that things happen to, where it becomes, like, borderline eye rolling, like, oh, God, come on, 10,000 years? Seriously?
+
+Bantam (00:20:58): 10,000 years?
+
+Rei (00:21:11): Yeah. I can't say anything beyond the number, but at some point, the time span of 10,000 years comes up, and everyone's, like, horrified, like, 10,000 years? And I'm saying, they're like, you guys live forever. God damn it.
+
+Bantam (00:21:15): That's such a huge leap.
+
+Rei (00:21:16): Yeah, it is.
+
+Bantam (00:21:17): That's so dumb.
+
+Rei (00:21:21): It is very dumb. I actually don't like the third book at all.
+
+Dillitan (00:21:24): Oh, good, then we won't do it.
+
+Rei (00:21:31): Do you guys have any interest before I said that, any interest at all in doing the third book?
+
+Dillitan (00:22:13): If I were to take, and this is me being bluntly honest. Okay. The first book was good. I actually really liked it. The second book, not so much because it felt like a collection of short stories. The thing is that, at least from personal experience, if I wanted to write a book, which I have, I wrote a personal one, whatever, I had a clear story and I told it a to b. Done. The story is done. And when I thought, a couple of years later, I want to make a sequel to that book, I was struggling because I had resolved all like, I had made a decent story. So now I was having to make up bullshit for the second book, and I just didn't do it.
+
+Rei (00:22:23): Hold on, I got to interject. So book one of Dragon Empire was the movie, and then book two was the tv series they did afterwards because they want to keep going.
+
+Dillitan (00:22:28): Yes. It felt like a lot of shit was being made up as she went along.
+
+Rei (00:23:00): So me personally, book one was great. It was a good story. Book two, I thought, was fun. I wouldn't call it great. It was fun. I enjoyed it. I liked seeing some of the stuff that happened in it. Book three starts out that way. It starts out fun, but then gets a little too shark jumpy for my tastes. Dilla. Ten. What about your thoughts? I know you hate books, but put your hatred aside. Handicap. Give all the books plus ten points for handicap. Are you interested in going into book three at all?
+
+Bantam (00:23:08): I got to dig through a lot of book hatred in order to find interest in it. You got to understand this.
+
+Rei (00:23:34): All right, well, I'm asking because if you guys don't want to do book three for the show at all, you just want to stop now and whatever. Then after we do finish talking about the second book, we'll play a little outro, but then we won't leave the call, and I will explain book three to you and to the listeners that want to hang around afterwards. Kind of like how we did with Age of Fire after book three. We did the outro. And then I told you really fast, book four, five. And.
+
+Dillitan (00:23:38): I mean, I'm down to not read any more of this.
+
+Rei (00:23:38): Okay.
+
+Dillitan (00:24:35): Mostly, like I said, I liked the first book. The second book kind of killed that for me, because they talk about how evil the dragons are by assimilating and how they do this takeover, but with love and kindness or whatever. And then the cats are just so cartoonishly fucking evil that it's like Saturday morning cartoon villain. And it's just aggravating because every time the good guys come up with a solid plan, like, oh, this will be perfect. The cats will never see it coming. No, it turns out the cats have been playing 40 fucking chess. And that even though the dragons have all these crazy abilities, nanomachine, son fucking ruin everything. And it's just not fun. It's not fun when the good guys just get fucking hard blocked at every goddamn turn.
+
+Bantam (00:24:42): Yeah, it feels like kids playing imaginary at the playground. They just come up with more random bullshit to count on. More random bullshit.
+
+Rei (00:25:03): The thing is, the power level, I guess I'm going to call it in this book, is so incredibly high with science that can do anything. I mean, Mark is basically all powerful, right? So with science that can do anything, the stakes being raised is going to come across as cartoonishly bullshit levels of, like, what the fuck are you?
+
+Dillitan (00:26:13): There's a bunch of things that, again, science fiction can break rules. I understand that. But when you take a science fiction concept and you use it in your book, I feel like you kind of need to adopt the rules that viewers and fans have already accepted as canon. And what I mean by that is, let's use the nano machine, the nanobots, as an example. The dragons end up in cat space and then immediately, within seconds, are eaten alive by nanomachines. The nanomachines would not be able to instantly teleport onto a fucking dragon ship and instantly destroy them in the amount of, like, nanomachines are still a robotic swarm that need to move. I've seen movies where the gray goo or whatever, it's like this giant cloud that's moving toward people. It doesn't instantly transmission and then fuck shit up. And it just seemed like, oh, no, we can't get close enough to the planet or we'll instantly fucking die from nanomachines. It's like, that's not how nanomachines work at all in anything.
+
+Rei (00:26:15): Nanomachines, son.
+
+Dillitan (00:26:22): Yeah, the nanomachines are a macguffin for the cats to just hard counter everything that the good guys do.
+
+Rei (00:26:37): So I don't have a lot of experience with Sci-Fi but I've always assumed that in anything, Sci-Fi nanomachines has been their excuse to pull off the same levels of bullshit. That magic does in fantasy. Like, nanomachines can do anything.
+
+Bantam (00:26:43): I have watched a lot of Sci-Fi and nanomachines are like, God tier endgame bullshit.
+
+Dillitan (00:26:45): Yeah, but they also.
+
+Rei (00:26:49): How do we explain the kid who can do this? Nanomachines.
+
+Dillitan (00:27:30): Yeah, nanomachines are. But even using the metal gear revenge thing, it's like even the nanomachines covering Armstrong's body had to slowly move across the skin, or his whole body is covered in them or whatever. But crossing the vast distance of space is a little fucking different than covering someone's body. And the fact that the cats use nanomachines to basically tear off every human captive's legs and replace them with nanomachine legs that can listen in. And one cat, one singular cat, is controlling all the fucking nanomachines on the goddamn planet.
+
+Rei (00:27:39): No, not on the planet. It's all the ones that are, quote, his color. Like, if you remember when the other cat came, they had two nanoshin clans fighting.
+
+Dillitan (00:27:48): Yeah, but she looked out over the cat city and saw that every building was his color except for, like, two buildings of a different color and one building of another color.
+
+Rei (00:27:50): Yeah. So it's a lot, but it's not the whole planet.
+
+Dillitan (00:28:02): It feels like the whole planet because he's controlling the entire fucking stratosphere. He's got the entire stratosphere. As soon as a dragon shows up within communication range, they get killed.
+
+Bantam (00:28:47): So I'm going to counterargue your space nanomachine thing. Doesn't make sense right now. We have space debris flying at like, 17,000 miles an hour. I think it's pretty fucking fast. They're basically like miniature bullets. Like a screw will come off of one of those satellites and just constantly pick up acceleration through Earth's orbit. They could have the same thing with nano machines, which can also replicate through science bullshit. So, yeah, they're like little supersonic replicating bullets, which is technically possible.
+
+Dillitan (00:29:08): I think my biggest issue is that in the first book, they established that the war between cats and every other sapien species in the galaxy was always. The dragons would show up, start breeding with a race. The cats would show up and nuke the planet, and the dragons would do nothing. And that's just how it's been.
+
+Rei (00:29:11): Because the cats have this personal vendetta against the dragons.
+
+Dillitan (00:30:27): Yeah, but then the humans get involved, and because the humans get involved, suddenly we're going from throwing sticks and stones at each other to fucking apocalypse level. I understand. Yeah, the cats are blowing up planets and stuff, but it's like once the humans got involved, everything elevated and ramped up to a ridiculous degree. The cats started using tactics that were absolutely batshit insane and effective, which is weird, but it's like they've never shown any aptitude for these kind of tactics before. And then they're all of a sudden smart enough to leverage the dragons to get all of their fleet back to their homeworld and then just kill hundreds and hundreds of thousands of dragons and humans by using warp bubbles. And it's like none of this shit was ever obvious to them. And then every single time, the main characters, the book almost spoiled itself, every time the main character said something about like, oh, if we destroy this cat ship, it'll be fine because they're out of range to be able to communicate with their homeworld. No one will ever know what will happen. But then they give them a dragon scale, a basket of fucking potatoes, and teleport them back to their planet. And it's like, why would you fucking do that?
+
+Rei (00:30:30): Because the dragons are hyper pacifist. They don't want to kill.
+
+Dillitan (00:30:37): The dragons are, but the humans are not. Fucking kill them. Eliminate the goddamn cats.
+
+Rei (00:30:40): The humans genocide is bad. Mr.
+
+Dillitan (00:31:04): Listen, the dragons made all the horrible shit that happened possible by not only showing the cats what everybody is capable of doing to them and then teleporting them back to their homeworld and going, okay, now go talk to your people and tell them about all of our tactics that we've been using successfully, like, over and over. And it's like, are you fucking dumb?
+
+Rei (00:32:00): All right, so for the record, I agree. Wipe out the cats, right? That's the easiest way to get to a punishment to wipe them out. But I understand that's very evil thinking from their point of view. They don't want to completely wipe out a species if they don't have to. Again with the mortality they have all the time in the world. They can sit there for a thousand years trying to diplomacy their way through it and finally get the cats to be friendly or whatever, right? They've already proved with Oliver that it can be done. Also, I think it might fit into the human fantasy of uplifting barbaric species or whatever, right? Borderline. It's not colonization, is it? Indoctrination, something like that. The old time when Europeans thought that they could uplift the natives of India and America and whatnot, I mean, they.
+
+Dillitan (00:32:02): Just referred to that as civilizing them.
+
+Rei (00:32:33): Whatever. But the point is, it's probably fitting a little into that. It's like we can teach the cats, the air of their ways and make them just like us. Right? And also the dragons are against the genocide because first off, they don't like genocide. And second, because even though they probably could win, question mark, maybe with the humans on their side, the cost of life on both sides be catastrophic. And with how pacifist the dragons are, they don't want to do that. It's much better to just, whatever, give up, I guess.
+
+Dillitan (00:33:13): Yeah, I guess the other thing that annoyed the crap out of me was there was one particular scene where one of the dragons kept insisting on making peace with the cats, or it was when they had hostages and she was trying to negotiate with them, and she just kept suggesting, let us go down there. Let us take care of this, let us do this, let us do this. And the cats were like, no, if you don't shut the fuck up, we're going to kill everybody. No. And then the dragon's like, fine, fuck them anyway. The dragon got pissed off because the 20 fucking attempts, it's like, that's not diplomacy. You're basically just being an annoying child.
+
+Rei (00:33:25): I mean, I don't know, maybe that's what diplomacy is. Dillerton, on a scale of one to ten, how much do you like cats in general? Not the spooks version, but like cats in general?
+
+Bantam (00:33:27): I give them a seven.
+
+Rei (00:33:35): Seven. All right, so, listeners, bantam loves cats. Will die for them. Ten out of ten. Best animal in the universe, right?
+
+Dillitan (00:33:36): What?
+
+Rei (00:33:37): Yeah.
+
+Dillitan (00:33:38): What animal?
+
+Rei (00:33:39): Cats.
+
+Dillitan (00:33:40): I love cats.
+
+Rei (00:33:40): Yes.
+
+Dillitan (00:33:43): But this book made me not like them.
+
+Rei (00:34:30): Yeah, good. In real life, I dislike cats. I wouldn't say I hate them. I can find them cute. All the people screaming at me. Now, the problem is that in general, they act like assholes and they're not trained and their owners tend to just let them get away with stuff which accidentally trains them to do bad stuff. So a lot of my dislike of cats has to do with the owners, actually, rather than the animal itself. So we have me and banter on the opposite ends of the spectrum here, where I'm like, ha ha. Cats are being shown as the villains they truly are. And he's trying desperately to be like, no, they're still kitties. And then he gives up by the end because in his mind, in his words earlier, they made them so cartoonishly evil. He's like, no, they're not cartoonishly evil. That's how cats act. That's how they would act. If you took a cat from Terra right now and just gave it sentience, like, boom, snap your fingers. That's how they would act.
+
+Dillitan (00:35:06): No, listen, in the first book, the cats would show up to a colony, be like, give us all your food. Maybe a couple of your children. The cats were quick to negotiate. We're actually talking. Whatever. The cats did some evil stuff in the first book, but it could be easily described as retaliation for stuff the dragons and the humans did. But then in the second book, they're fucking mass murdering, ripping off limbs, torturing people, and just being like, if any dragon comes anywhere near our planet, we're going to kill every fucking person that we have captured.
+
+Bantam (00:35:08): Did you already forget the first book?
+
+Dillitan (00:35:18): All right, the difference between the first book and the second book is they were four out of ten evil in the first book and then twelve out of ten evil in the second book.
+
+Bantam (00:35:20): No, they were pretty evil.
+
+Rei (00:35:24): I feel like very little change. You just couldn't see it before, what, till ten?
+
+Bantam (00:35:37): They were pretty evil in the first book. The first interaction was like, hey, give us all your food. They're like, no, we're starved. And it's like, okay. And then they kill literally 1000 people for saying no.
+
+Dillitan (00:35:39): I asked you. I forgot about that.
+
+Rei (00:35:43): Yeah, see, he's just a cat lover trying to valid.
+
+Dillitan (00:35:47): I do love cats.
+
+Rei (00:36:00): He's trying to justify their actions. In the book. He's like, no, they're still kitties. It's like, no, you can have Oliver and that's it. The rest go. Oliver is fine. He was house broken.
+
+Dillitan (00:36:07): Never mind. I can't say this. What I was going to say. All right, here's what you do.
+
+Rei (00:36:14): Hold on. There's a 50% chance I don't edit this out later because I might miss it because I'm beyond really sloppy with the editing.
+
+Dillitan (00:36:37): Okay, so here's what you do. The dragons all go back to their homeworld and just cover their eyes and cover their ears. Send the humans en masse to the cat planet to straight up eradicate all of them, but save all the babies and then raise the babies to be normal and just straight up genocide the whole goddamn planet.
+
+Rei (00:36:39): You know, that's almost as bad as what the cats do.
+
+Dillitan (00:37:01): You know what? Here's the thing. If the cats are willing to do it, then they should be prepared to have it done unto them. Anytime I see, like in a sci-Fi or fantasy thing or whatever, where the bad guy is doing something absolutely horrible and the good guys are like, we can't do that. We can't be as bad as that. Why not? Why can't you be?
+
+Rei (00:37:03): Because you're better than that.
+
+Dillitan (00:37:20): That is stupid and it is limiting. And the more deaths that happen afterward because you refuse to stoop to the bad guy's level, then it's on you. If 100,000 more people die because you refuse to pull the trigger and be just as bad as the bad guy, then those deaths are on your hands.
+
+Rei (00:37:38): It's the whole Batman argument. Yeah, or Superman or any freaking Marvel DC heroes. Like, if you had just killed the villain, you would have prevented so much death and destruction. But, sorry, burping. What does that say about your character if you're willing to just wipe people out that easily?
+
+Dillitan (00:37:49): It's like Ray mentioned at work the other day, the whole joke of, like, if you kill a killer, the number of killers in the world stays the same. And it's like, not if you kill more than one.
+
+Rei (00:38:22): I guess my best argument for that trying to just devil's Advocate is slippery slope. It's like, yeah, it's easy to say you should have killed the Joker. Look, all the bullshit he's done, right? But then you start going like, well, if I kill the Joker, then I might as well kill, I don't fucking know, DC Batman villains. You might as well kill Scarecrow because he's also doing terrible things. And then like, well, I guess maybe at that point you might as well do Mr. Freeze because even though he's justified, he's still doing terrible things. And then after that, it's like, you might as well do Mysterion, but he's just a fucking prankster or whatever.
+
+Dillitan (00:38:22): Mysterio?
+
+Rei (00:38:25): You mean from whatever? I don't fucking know.
+
+Bantam (00:38:26): Listen.
+
+Rei (00:38:27): The Riddler. That's who I was thinking of.
+
+Dillitan (00:38:32): No. All right. The Riddler robs banks and leaves riddles everywhere.
+
+Rei (00:39:00): But the point is, it's slippery slope. Like you looking at right now is like, no, he wouldn't do that. Because obviously, because you're sitting here on this side of the line, you have yet to kill anybody, right? As far as I know. But the idea is, once you start and it's like, look how much problem I have solved by killing the Joker or whatever, the next time you're being annoyed by some mind of villain poison ivy. I don't fucking know. You're like, what if I just killed her too? And then it just gets worse and worse and worse and worse.
+
+Dillitan (00:39:51): Here's the flaw in that argument. Joker is the only one who irredeemably needs to die. The rest of them basically cause problems, rob banks, whatever. Poison ivy, I would actually say, is a good guy. She's trying to fucking stop humanity from destroying the planet she's not planning on. Yeah, some of her little schemes are. I'm going to turn every human being in the world into a plant. But it's like, those were for the movies or whatever. Point is that the Joker is irredeemably evil, he is psychotic, and he thinks that taking a human life is fun. He needs to be put down. I absolutely feel like if I were Batman, I could feel justified in killing the Joker and then going back to not killing the rest of them, because the rest of them are just dumb asses who are like, rob the bank. I got the world's biggest diamond.
+
+Bantam (00:40:05): You know why Batman doesn't kill, right? It's not because of his code. There's another reason. That's because he's compassionate. He wants to help redeem them.
+
+Dillitan (00:40:10): Well, yeah, and all of them can be redeemed. Okay, but the Joke, they can't be.
+
+Bantam (00:40:12): Redeemed if they're dead.
+
+Dillitan (00:40:14): The Joker cannot be redeemed.
+
+Bantam (00:40:18): The Joker can absolutely be redeemed.
+
+Dillitan (00:40:48): This is the last thing I'll say on this tangent. The only time the Joker has ever been properly redeemed was in a comic book where the Joker finally killed Batman. And the Joker showed up at his funeral with bombs, planning on killing the entire crowd. And then when he saw that no one gave a shit about him anymore because they were so sad that Batman died, he quit and became a fucking worker at the DMV. That was the only time the Joker has ever just stopped being a monster is when he had already murdered Batman.
+
+Rei (00:40:50): That's so fucking stupid.
+
+Dillitan (00:40:53): Comic books are stupid. All comic books, anyone.
+
+Rei (00:40:56): That's why I don't participate in the superhero genre.
+
+Dillitan (00:41:03): Yeah, comic books are fucking dumb. And every time I watch Death Battle on YouTube, and they're like, well, in the comics. And I'm like, all right. Immediately. This is stupid.
+
+Rei (00:41:06): In the comics, he can restructure the universe at the drop of a hat. Yeah.
+
+Dillitan (00:41:24): And it's like, all right, fuck you. This fight is stupid anyway. The cats, I don't know. I thought they were at least an appropriate power level of evil in the first book. Okay, fine. They killed thousands of colonists. Whatever.
+
+Rei (00:41:26): What's a thousand colonists here or there?
+
+Dillitan (00:42:31): What's a thousand colonists here and there? But to start manipulating warp fields to find interesting and unique ways to kill the unkillable and then convincing that same super pacifist. This is why pacifism never works. But to convince a super pacifistic race to instantly teleport you all over the galaxy to collect your entire military back home. And Zhang even says, oh, they're just using us to get all of their ships back home. Will they even be able to fit all those ships on their planet? They understand that they're being used and the dragons are like, no, yeah, this is totally fine. Here, have some potatoes. And here's a dragon scale, so you can contact us whenever you want. In the first book, when Shumo gave them a dragon scale and told how important it was to get a dragon scale, how they needed to be careful, because if everybody was tapping on their scales, they'd never get any sleep. Meanwhile, they're giving the enemy every single ship a fucking dragon scale. Like, yeah, here, whatever you want to talk.
+
+Rei (00:42:46): I'm trying to remember correctly, but I think they gave him multiple dragon scales because they kept destroying the ones they gave to him, and so they no longer exist. So it's not like the cat is sitting here with 50 dragon scales. They keep giving them a new one when the old one's gone, so they should only ever have, like, one.
+
+Dillitan (00:42:50): Then stop giving them to them. Blow up their planet. How many?
+
+Rei (00:42:58): Entire phantom. No genocide, no planet cracking. Still are okay.
+
+Dillitan (00:43:41): The cat's planet crack all the time. They've single handedly wiped out entire species. And the dragons are like, well, these ten species of aliens are completely eradicated because of the cats. At some point, I feel like there needs to be a line. If the cats have single handedly made extinct multiple species of aliens that you were friends with, at what point are you just going to be. No, it's fine. The cats can be redeemed. I can't wait until we're peaceful with the cats. It's like it's never going to happen. And then the next time the cats wipe out an entire planet, that's on you just. It frustrates me. I hate it.
+
+Rei (00:43:49): All of Bantam's problems can be solved with murder. Yes, in fantasy, in Minecraft.
+
+Dillitan (00:43:53): In Minecraft.
+
+Rei (00:43:56): All right, Diliton, you talk for a bit.
+
+Bantam (00:44:30): I'm going to advocate not genociding the cats. I'll be the voice of reason here. And although it is easier to just wipe out all the adults and try to raise the kids who are going to be resentful that you murdered the adults and you probably had to kill them and then restart it with their kids who are going to be resentful, and then you just get this spiral of adult murdering. How about you just. Okay, I really can't think of any option doesn't involve killing, but the fewer.
+
+Rei (00:44:33): Put them in space jail. Put a quantum bubble around the planet.
+
+Bantam (00:44:38): Like, no, leave or just take out the leadership.
+
+Rei (00:44:42): Easier said than done. They got the impenetrable shield of nanomachines.
+
+Bantam (00:44:48): They're not that impenetrable. All you need is your own nanomachines to fight the enemy. Nanomachines.
+
+Rei (00:44:51): Mark doesn't like nanomachines, though.
+
+Bantam (00:44:54): Hey, nanomachines ain't that bad.
+
+Rei (00:45:12): All right, so let's move on to a big topic that has to do with, in this book, like, a big, dramatic topic. I can't think of the fucking words. The golden scales. The golden scale dragons in general. Okay, I was like, any opening thoughts before I started steering the conversation?
+
+Dillitan (00:45:57): No. Yeah, the golden scales. I liked them. It seems weird that the dragons would keep them as, like, a. No, you're just bring me grapes and wave the fan as far as whatever. And that if. Okay, actually, I have a good point. The dragons are so fucking pacifistic. But if any of the golden scales are caught doing this one particular thing, they're immediately put to death. And it's like, oh, gating. Yeah. So if the golden dragon scales create a gate, then, oh, that's fine, murder them. But the fucking cats blow up a planet. Oh, no, they could be redeemed.
+
+Rei (00:46:55): Okay, so it is worth pointing out that the dragon Empress doesn't want to kill the golden skill for gating. It's the other golden skills that have decided, no, this is what has to happen, right? Their little self governing policy is the ones that are deciding that it should end with murder. And the reason they decide that is because they believe that gating has a chance of completely destroying the fabric of spacetime to where the entire universe would collapse and all existence would cease to be, like, everything just gone. And that is such a terrible risk that there can be no leniency, no special circumstances. You just can't do it. It's not worth the risk ever. Even if it's only, like, a 0.5% chance that then can't take the risk. Because if you manage to roll the dice and get that number, existence is gone.
+
+Dillitan (00:47:18): Okay, then in that case, I'll slight amend my statement and say that in that case, then, the dragons should have done everything in their power to stop the golden scales from self killing themselves for committing this crime. Here's the great thing about ending the entire fabric of spacetime. It's either going to happen or it's not.
+
+Rei (00:47:19): I'd rather it didn't, though.
+
+Bantam (00:47:22): You're an all or nothing kind of guy, aren't you?
+
+Dillitan (00:47:39): Listen, if a golden scale is going to create gates and the universe doesn't end, then okay, but if it does, it's not going to be something that you're going to have to suffer through. It's hard to explain.
+
+Bantam (00:47:42): Phantom, stop advocating for the destruction of the universe.
+
+Dillitan (00:47:43): I'm not.
+
+Rei (00:47:48): No, he's just the kind of guy that's like, you know what? If it happens, it's not my problem anymore.
+
+Dillitan (00:48:29): Yeah, it's more like, God, I really wish I could put this to words. You know what? Whatever. I can't figure out how I want to explain this, but essentially, like, the golden dragon scales can gate all they fucking want. And if it's good, you think, oh, well, what if they fuck it up and it ends all of the whole universe? It's like, well, it's not like you're going to have to suffer through it. It's not like watching a bomb go off in the distance and then seeing the mushroom cloud and having three or four minutes to go, oh my God, I regret everything. It's like the universe will be over. You're not going to have to worry about it.
+
+Rei (00:48:34): I don't know, on a much smaller scale, bantam is okay with dying as long as it's instant.
+
+Dillitan (00:48:38): Yeah.
+
+Rei (00:48:56): We'Ll come back around to the whole ending of the universe thing because they explain it in a bit more detail in the third book. So I'll come back to that at the end. But right now, that's why you can't go on scales cannot gate, because in the universe, that's like all we need to know at this point in the story, right?
+
+Dillitan (00:48:58): Yeah.
+
+Rei (00:49:28): But I guess the other thing to bring up with them is very pertinent to this podcast because of the type of people who listen to it, dragon fans in general, the idea that all of the people like John's family and whatnot get put into little dragon like, it was a really small scene. It was fast forwarded to what it was supposed to be like, what, five years or something for the, or 5.
+
+Bantam (00:49:32): Seconds when you calculate.
+
+Dillitan (00:49:37): It was, it was five years. Because I think they also needed to, that their bodies were so damaged.
+
+Rei (00:50:08): Oh, they had to get a new soul stone because the other one was radiated. They had to get a new one and reattune it. That's why it was five years. But the point is like five years, you have the one scene with whatever the grandma's name is, John's mom at the party in the dragon's her body and being like, I fucking hate this, right? And then, boom, next scene, everyone's back into the normal body. We skipped past those five years so fast, and I wanted to see more human and dragon body shenanigans. I would have died for that.
+
+Dillitan (00:50:11): Yeah, they did just hand wave all that shit away.
+
+Rei (00:50:47): No, we just got them being depressed and emo in the hospital, basically. Like, this isn't my body. What the heck? They started to explore the concept of dysphoria, which would have been great to spend more time in that. And then we have the party where the grandma is just being, I fucking hate this. If one more dragon asked me to get them an apple juice one more time, I want to fucking kill someone. And it's like, I wanted to see more of that. Just more mistaken identities, more them just being dragons. Like, them trying to learn to walk on four legs, them doing this and that. It's like, that would have been just a whole book of that. Those five years. One whole book.
+
+Bantam (00:50:52): You know what the problem seems to be? There's too many solutions.
+
+Rei (00:50:53): Explain.
+
+Bantam (00:51:28): Okay, so the world gets nuked. Your family needs to reattune to their bodies. They're about to die. Okay, well, then we'll just put them in dragon bodies. But now you got this new problem where their mind's not equipped to handle the dragon body. Okay, we'll just put them in a coma so they don't have to deal with it. And then it feels like every hurdle has an easy obstacle. Every little obstacle is just so easily overcome by the level of technology they're at that there's no real consequence to anything.
+
+Rei (00:51:29): Yeah, kind of, sort of.
+
+Bantam (00:51:33): So all the struggles are meaningless to an extent.
+
+Rei (00:51:40): And I think that leads into why she's able to get over the trauma so fast, because in the grand scheme of things, it's all meaningless.
+
+Bantam (00:51:54): Yeah. The author should not have introduced immortality. Like, maybe give him the star Trek lifespan of, like, 100 and 5200 years. Give him a little extra time, but dicap it somewhere.
+
+Dillitan (00:52:01): Yeah. Maybe the human body can't handle the soul stones quite as effectively or something.
+
+Rei (00:52:06): I mean, the human psyche can't, but I think that's a book three thing.
+
+Bantam (00:52:09): Pretty good. Book two.
+
+Dillitan (00:52:51): That's another thing I wanted to bitch about with the nanomachines. The dragon Empire has these soul stones and that all friendly races within the dragon Empire get soul stones, and everyone could be effectively immortal. And they constantly talk. I think it's mentioned, like, six or seven times how it's so sophisticated that the cats can't possibly reverse engineer it, and they'll never be able to figure out how soul stones work. And then nanomachines, they figured out how soul stones work, and they made perfectly convincing replicas to the point where Mark didn't know that they were fakes until it was pointed out to him. And then he looked again and went, oh, my God, it is a fake. Then? Did you even look the first?
+
+Rei (00:53:12): The thing is, they only replicated, I think, physically, like, molecularly. It didn't replicate its ability. If they died with that fake sauce on, they would not have been able to be replanted or whatever. So it wasn't the complete replica. So the argument of it's so sophisticated, the cats can't replicate it still stands.
+
+Bantam (00:53:18): Yeah, it was only a replication, son. Physically, it was identical, but it didn't have the ability.
+
+Dillitan (00:53:28): Yeah, I'm pretty sure any race of aliens with any sort of craftsmanship can recreate a physical soul stone.
+
+Bantam (00:53:29): Yeah, they can recreate a physical cell.
+
+Dillitan (00:53:36): Stone, which is what the. But the fact that they constantly talked about how the cats couldn't.
+
+Bantam (00:53:42): Yeah, the ability to not soul stones.
+
+Dillitan (00:54:40): I will admit that I spent a large majority of the second book just frustrated. Frustrated that they kept finding ingenious solutions to problems that weren't even really problems. But then when actual problems were happening, like people's lives were on the line, or there were dead bodies, or there was actual death and destruction on the line, they couldn't figure out how to do shit. It's like all of their brain power just got sucked away when it was actually important, but when it was, oh, no. We need to find a rare flower for this wedding. Oh, let's do this crazy shit. And it's like a fucking Rube Goldberg machine of fucking genius ideas. And they're able to figure out how to make everything perfect for this inconsequential event. But when the cats have kidnapped thousands of human prisoners of war and are torturing them, can't figure out what to do. Sorry, nothing. We've everything. We've tried, we've tried nothing. And we're all out of ideas.
+
+Bantam (00:54:43): Technology cannot fix politics. Got to keep.
+
+Rei (00:54:46): That's the problem.
+
+Dillitan (00:55:08): I think that's the core issue of book two. I don't like politics. I don't like constant talking and figuring things out and just, oh, no. Politicking is a huge weak spot of mine. I don't like it when a book goes hard into politics. I'm immediately bored.
+
+Rei (00:55:10): That's why tooth and Claw was so good.
+
+Dillitan (00:55:12): That's why I hated tooth and claw the most.
+
+Rei (00:55:15): I think Dillatan likes politics. Right?
+
+Bantam (00:55:23): I like the concept of dragons suing one another. That actually, I thought was interesting.
+
+Rei (00:55:25): The american dragon, Dileton.
+
+Dillitan (00:55:26): Yeah.
+
+Rei (00:55:41): Okay. So I just remember something I wanted to get your guys opinion on because it was handled so, like, off screen, under the rug, done in 10 seconds, and. Forget about it. Forget about it. They killed Shumo.
+
+Dillitan (00:55:47): Yeah. And Shumo's death was just so.
+
+Bantam (00:55:50): Background characters to die off.
+
+Rei (00:56:25): She was such a big deal in book one, and I liked her. I understand she did terrible things. I understand why what she did was like, I get it, but I liked her as a character in the story. She was a good character. I really liked her. If I was in Jiang or Richard's position, I probably would have done stuff differently, but that's just because of me being okay. Like, selling my soul to a dragon. Right. But the point is, I liked her, and they did her so fucking dirty. Like, wow. At least make it a bit more of an emotional impact if you're going to kill her off like that. Jesus.
+
+Bantam (00:56:32): Yeah. The author doesn't really handle deaths all that well. Like, it is hand waved anytime it comes up.
+
+Rei (00:56:37): Even the real deaths are hand waved. Like, yeah, they can't come back ever again, but whatever.
+
+Bantam (00:56:43): I wonder if Shumo got a lot of backlash when the first book came out. She's like, all right, well, I'll just put her.
+
+Rei (00:58:19): Shelve her out of the think. I don't know, but I don't think authors really care about that level of backlash between books one and two or two and three or whatever. They don't tend to change the story they had in mind. They only will change future stories, usually because there's not enough space between book one and two for them to get enough feedback. And if they would be willing to keep changing things, it become the most, like, flippy floppy washy story ever. But, yeah, I want to assume that the reason why, probably part of the feeling that Kylie was trying to give in the book was even the real death isn't that big of a deal. Which is why we shouldn't spend too much time on making Shimo's death very sad, because as far as they. The dragons, understand it, the soul will live on, and she'll get reborn into another body sometime down the line. Right. So it's not the worst of all possible outcomes. That's my thought, and the only way I can justify it being so under the rug, because that's the emotion they wanted to kind of capture. But they did a very bad job of it. Like, I understand most of them didn't like Shumo anymore, but at least her kid should have been super sad. Like, show the kid being super sad and Mark or another dragon saying that it'll be okay because she won't be Shuma anymore, but she will be back kind of deal, right?
+
+Dillitan (00:58:23): Yeah.
+
+Bantam (00:58:26): Wait, I thought she was dead.
+
+Dillitan (00:58:35): They. She is. But Mark also mentioned that there might be ways, but ways that would take so many years that she may as well be permanently dead.
+
+Bantam (00:58:37): You just fast forward 10,000 years, boom.
+
+Rei (00:59:33): You got shoot dillitan bantam. Would you guys be sad if you woke up in golden scale dragon bodies? I have to say that the family's reaction to that was like, it bothered me because, a, it would be great. Like, just wake up dragon body. Like, hey, this is fucking fun. And that scene showing that they can do that technologically, like, they can just, I'm just going to grow a nobody, and next time this body dies, put my soul into that one, please. It's like, dude, if I can just do that recreationally, then fuck it. I'm just going to live through several different lifetimes as many different things just for the fun of it, right? So their reaction to being stuck in dragon bodies for five measly years, when you think about how long lived there at this point, it was like, just so much bitching and whining. It's like, I'm sorry, but just deal with it. God, people.
+
+Bantam (00:59:42): Well, they ain't ready to accept dragon bodies like we are. Those brains were made to walk on two legs. All of a sudden, they got to walk on four with us.
+
+Rei (01:00:01): It's why I think it would have been better to focus on the dysphoria associated with it, right? Bring other kin into the discussion. Just touch on that. Maybe some humans, 100% want it to be put in different bodies. Maybe there's a bantam in that universe that gets put into a bird body, right?
+
+Bantam (01:00:06): Why do that when you could just go ahead waving in the cobalt for five?
+
+Dillitan (01:00:33): The amount of times that the humans start screaming and crying about our humanity, our humanity, when it also annoyed the piss out of me in this book, they're like, you guys accepted all this technology. You got a functional immortality, you got soul stones and all this stuff, but then our humanity every once in a while to just negate an entire plotline because the dragons want to do this or this race wants to do this.
+
+Rei (01:00:43): Yeah, remind me, because again, my line between book two and book three is really shody, but they did have a couple of party scenes in book two, right?
+
+Dillitan (01:00:43): Yes.
+
+Rei (01:00:53): Like, with the whole. Which of the eight things do you want to say you're okay with? Like, the food, the drink, the dance, the sex. Right out in public, right?
+
+Bantam (01:00:55): Yes. The space orgy.
+
+Rei (01:01:11): The space orgy. Okay. That was in this book. All right. What do you guys think of that whole concept? Because that's like, I think the first time we actually get to see Dragon Empire festivals, I guess you could call it.
+
+Bantam (01:01:17): It was a lot more of a ranger than I thought it was going to be. Those people were just getting high and having fun.
+
+Rei (01:01:25): Would it have been fun? Apparently there's ritual combat that can't just flat out end in death. So it's like, again, just, death is meaningless now.
+
+Dillitan (01:01:36): Yeah. To turn down sparring with your friends because it could result in your death. And the reason why you don't want to do that is, oh, I don't want to have to request a new body.
+
+Rei (01:01:55): Such an inconvenience. Such an inconvenience this death is. I enjoyed the party, but I did not like the idea of just how nonchalant death in general is.
+
+Bantam (01:02:11): That's the whole series, though. Once the soul stones come into play, death becomes meaningless. Or it does become meaningful, but you skip over the meaningful parts so it becomes meaningless again.
+
+Rei (01:02:19): I'm trying to remember exactly what happened book two again, because my line between two and three is messed up. So one of you guys bring up a topic you want to talk about.
+
+Bantam (01:02:24): So, bantam, that drunken squid guy, what'd you think about him?
+
+Dillitan (01:02:25): That was, like, my favorite scene in.
+
+Bantam (01:02:29): The whole fucking book.
+
+Dillitan (01:02:45): I was so upset at her reaction. She's like, oh, get off. Oh, mark, sober him up. And it's like, no, God, he was just, like, all over you. You could have I.
+
+Bantam (01:02:54): If I remember the wording correctly, basically, he was just rubbing his junk on her face as, like, a loving tap.
+
+Dillitan (01:02:59): Because when he saw that, apparently that's his sexual organs or something.
+
+Rei (01:02:59): I don't know.
+
+Dillitan (01:03:03): But I was just happy with the tentacles.
+
+Rei (01:03:12): Bantham just lives on Dragon Homeworld, just full of debasement and debauchery and just. If I.
+
+Dillitan (01:03:24): If I existed in this book universe, yeah, I'd just be on dragon Homeworld doing. Just living blissfully ignorant of everything going on outside. I don't care. I'd be fucking Richard from.
+
+Rei (01:03:37): What about the vacation destinations? Like the underwater tour or what I assumed was ice skating on Saturn's wings? Kind of. Yeah. Like, I had a hard time picturing what that was, but that sounded like.
+
+Bantam (01:03:46): What it was supposed to be, I guess. I don't know. But I don't like the idea that you got to drown in order to vacation in the water.
+
+Rei (01:03:49): You just got to put liquid in your lungs, like in the abyss.
+
+Bantam (01:03:54): It's kind of drowning. I'd say that's the very definition of drowning.
+
+Dillitan (01:04:05): I mean, absolutely, realistically, in real life, there is breathable water. It's water so saturated with oxygen that you can breathe it. It's not comfortable and hurts like a.
+
+Rei (01:04:07): Bitch because the lungs are not meant to take them liquid.
+
+Dillitan (01:04:10): Yeah, it hurts like a bitch, but you can actually survive in it.
+
+Rei (01:04:16): It's supposed to also make you chester after a while because it works to work more to push liquid in and out rather than a gas.
+
+Dillitan (01:04:19): Yeah. And apparently it takes months to recover after.
+
+Rei (01:04:22): Yeah. Got it kind of tingled upside down for a bit.
+
+Bantam (01:04:25): So it's not feasible then?
+
+Dillitan (01:04:26): It's not feasible.
+
+Rei (01:04:28): Not with our technology, but with their.
+
+Dillitan (01:04:33): With their bullshit technology where they can just fucking do whatever the hell they want.
+
+Rei (01:04:36): They can just kill you after you. Don't the vacation put you in a new body?
+
+Dillitan (01:04:40): Yeah.
+
+Rei (01:04:56): I love the concept, but execution was fucking stupid. Dilatan, what would be a vacation destination on your dragon planet from your fantasy background, whatever. I don't know what to call it.
+
+Bantam (01:04:58): What, like in Diletan's world?
+
+Rei (01:05:01): Yes.
+
+Bantam (01:05:06): I don't know. I never gave much thought to entertainment. We probably have like an old fashioned.
+
+Rei (01:05:08): Slaves, no entertainment.
+
+Bantam (01:05:24): They have a giant fungal forest destroying the condo. They don't have much time for entertainment. But if I did had to pick something, I'd probably have like, an arena where like dragon tree monsters. Yeah, no, I would totally have a coliseum. That's a diligent thing.
+
+Rei (01:05:42): I'd have a jungle cruise, like go down the river on a boat. But don't literally, do not stick your arms and legs outside the boat because you will get grabbed and killed by something. I love arena arcs. Okay. As far as, like, tabletop rpg goes, I love arena arcs because I just like combat.
+
+Dillitan (01:05:48): You love combat, but yet we played Baldur skate last night and Ray barrelmancied dilitan.
+
+Rei (01:05:49): It wasn't true.
+
+Bantam (01:05:52): Barrel Mancy, did you place a barrel?
+
+Dillitan (01:05:56): Did you place a barrel and then blow it up? Then you barrel mancied.
+
+Rei (01:06:09): So in my head, barrel Mancy is when you place so many that you nuke the fight in one shot. Just done. But placing down a barrel, that's fair because they'll do it to you.
+
+Dillitan (01:06:11): No, they don't move barrels around.
+
+Rei (01:06:16): They just blow them up, right? But I'm just putting it next to them and then blowing it up.
+
+Bantam (01:06:18): That's barrel Mancy.
+
+Dillitan (01:06:25): I watched Ray do it and I was just like, absolutely shocked and amused.
+
+Rei (01:06:33): Excuse me, I'm trying to remember exactly what happens in book two. You said it ends with the marriage, right?
+
+Dillitan (01:06:59): It ends with the marriage. The last three major events that happen in book two, they go to the aquaplanet after rescuing the last surviving octopus thing from the cats, and they help the babies survive. There's stopping the execution of the golden scale for explaining to them that it.
+
+Rei (01:07:01): Was close to the end.
+
+Dillitan (01:07:07): Yeah, it was all a lie and blah, blah, blah. And then I think the last event was the actual wedding.
+
+Rei (01:07:09): They get Mark to admit it was a lie, right?
+
+Dillitan (01:07:11): Yeah. Mark is like, yeah, I lied.
+
+Rei (01:07:12): Okay.
+
+Dillitan (01:07:15): And they kind of just laugh it off. Like, oh, Mark.
+
+Rei (01:08:04): Oh, Mark. They do that to a lot of. All right, so again, I have love hate with a lot of things in this book. And to me, that's the sign of a good writing because you should never be black and white. Should be like, well, I like this, but don't like that. Right? I like Mark's character. I like just his character, right? I like his character. And he's a decent enough tool for a Sci-Fi setting with my limited experience of Sci-Fi setting. But what I don't like about him is, I guess, the fact that he just gets away with everything. It's like, oh, yeah, I caused you guys to be slaves for many generations and some of you have died and it's like, whatever. But I needed my shows. I needed my moving pictures, basically, right? He treats their lives like a soap opera and they're just like, oh, you.
+
+Bantam (01:08:09): Also, how would you give a moon sized AI complete control over your society?
+
+Dillitan (01:08:21): Well, I guess the only defense I can have for them all just being like, oh, you to his fucking war crimes is, what are they going to do? They can't really kill.
+
+Rei (01:08:30): Think. I think John brings up at some point that you really just put up with this and let him get away with that. And they're like, yeah, it sucks, but I mean, his benefits far outweigh his cons.
+
+Dillitan (01:08:43): That is true. If you just had to deal with fucking tv show level drama every once in a while, but you had food that could just appear in front of you and you could have whatever you want.
+
+Rei (01:08:45): Have him make you a new body.
+
+Dillitan (01:08:48): Yeah, it's like, I think I could tolerate some drama.
+
+Rei (01:08:53): You love drama, okay? You don't like being in it, but you love it.
+
+Dillitan (01:08:55): I don't like being in it. I love watching it.
+
+Rei (01:08:56): You are, Mike.
+
+Dillitan (01:09:10): If I have no stake, that's actually true. If I have no stakes and I'm just watching two other people fight and have drama, and I'm not personally attached to either one of them. Like they're two total strangers. Yeah, I'll watch. It's entertaining to me.
+
+Rei (01:09:14): Yeah. Bantam is watching me and Dillaton fight. And when we're done, he's like, all right. Do you guys.
+
+Dillitan (01:09:27): No that, I know you both personally and I care about you both. I'm talking about two total strangers. I don't know them, I don't care about them. I don't care who wins because it's just entertaining.
+
+Rei (01:09:32): I mean, but if you're an all sentient AI, then you know everybody. That's true.
+
+Bantam (01:09:34): He's got you there.
+
+Rei (01:09:57): I was not aware that the execution was so late in the book. I thought it was like first half. No, see, my order of events is kind of fucked up. I thought it was, oh, here's some cat stuff. And then immediately into the asteroid, get rescued, get executed, bunch of vacation destinations, and then the marriage, like the very, very end.
+
+Bantam (01:10:01): This is why you should reread books, Ray. Mr. I love reading so much.
+
+Rei (01:10:08): I do. I reread a lot of books. I just tend to do them at least like a year apart. This was like only like two or three months. So I was like, it's too soon.
+
+Dillitan (01:10:12): This motherfucker listens to books every night at work for fun.
+
+Rei (01:10:13): Yes.
+
+Bantam (01:10:15): Disgusting.
+
+Dillitan (01:11:09): He kept telling me, I binged the book in two days before yesterday and the day before. And the thing was, he's like, you should listen to the book at work. The thing is that when I'm working, I need something in the background that is just like a baseline uplifter. I can't work with my hands. And then also pay attention to what's being said at work because the environment that I'm in sucks. But when I'm at home, I spent like 6 hours making armored core emblems with my hands in a controller. And I was able to listen the book no problem because that was fun for me in the background and the book was not. I need one fun thing to balance out something I don't want to do. And so listening to books, not fun. Being at work, not fun. I can't do both of those at the same time because it'll just make me miserable.
+
+Rei (01:11:11): But double negative makes a positive no.
+
+Bantam (01:11:13): So I have to listen.
+
+Dillitan (01:11:18): I have to listen to music at work because that makes me work faster.
+
+Rei (01:11:31): And worse, I listen to books at work because the work is so brain dead. I need something to keep my mind on a single track or starts jumping on everywhere. Music is not one of that. Music is background. Unless I can sing along to it.
+
+Bantam (01:11:36): I have so little opportunities to listen. I cannot retain information.
+
+Rei (01:11:39): Don't you drive, like, 2 hours at a time?
+
+Bantam (01:11:42): No, I drive, like, five minutes at a time with 30 minutes breaks.
+
+Rei (01:11:48): I thought you were in the middle of. When you have to drive, like, an hour to get to any store nearby you.
+
+Bantam (01:12:01): No, I am surrounded by all my stops. The longest drive is 15 minutes, and then I had to get out for 30 minutes, and then, like, two minutes to the next stop and then another 30 minutes to unload and do all the order.
+
+Rei (01:12:09): I really thought, you know, it. Like, you. Like, you're driving for an hour to get to your fucking first stop. You should listen to the book while you're driving. That's why I kept saying, remember to listen while you drive.
+
+Bantam (01:12:14): No, I cannot retain every new information because it's just like five minute intervals every half hour.
+
+Rei (01:12:16): Okay. That's much more fair.
+
+Bantam (01:12:20): Okay, that makes sense.
+
+Rei (01:12:23): How long does it take you to stock a shelf?
+
+Bantam (01:12:27): Depends on what's problem to an hour.
+
+Rei (01:12:30): The other problem, listen to.
+
+Bantam (01:12:45): No, because I got to keep an open ear for the managers. I have to read everything off to them and show them, like, hey, I got this much. This much. We got to scan it in. We got to get all the information out, and then I got to keep the image of little Debbie, so I got to be nice to the customers.
+
+Dillitan (01:13:14): Yeah, I was going to say he addressed this once before. It's like, I'm usually the one in the back throwing out garbage when we're leaving. And the vendors come in the morning. Ray. But they have to stand there with the manager as the manager types in the inventory order. So, yeah, he's got to read everything off. And then when he goes out to the sales floor, he can't just have headphones in because if a customer comes up and asks him a question and he ignores them, they're going to go complain to the manager, and the manager is going to complain to little Debbie.
+
+Bantam (01:13:19): Yeah. Vendors get more shit than associates. We are the bottom of the barrel.
+
+Rei (01:13:35): That's weird, because my only interaction with vendors have been at the store we work at. There'll be, like, a vendor doing, like, the Potato chips, because I think there's a lay's vendor. We don't get them ourselves. Whatever. And so they're just sitting there, stocking the shelf of chips, looking grumpy as fuck, dressed in street clothes and not talking to anybody.
+
+Dillitan (01:13:40): But that's because there's no customers in the store when they're doing it.
+
+Rei (01:13:43): Yeah, there is. This is back when I used to work daytime.
+
+Dillitan (01:13:48): Well, then that's why they're grumpy, because most of the lays vendor comes in.
+
+Rei (01:13:52): At like 05:30 a.m. Maybe Florida is just much stricter than Utah.
+
+Bantam (01:14:06): Well, no, the Pepsi, Coke, and Frito lays, they're slave drivers when it comes to their vendors, okay? They beat them down for a little pay. That's why Coke and Florida down here went on strike for better hours. Like they just stopped driving altogether.
+
+Rei (01:14:08): No more coke.
+
+Bantam (01:14:12): Yeah, Pepsi was kicking ass for a while.
+
+Rei (01:14:17): All right. I guess there's nothing much more to talk about in the book if we're talking about being a vendor now.
+
+Bantam (01:14:20): Not really, no. I mean, we covered all the episodes.
+
+Dillitan (01:14:58): No, I mean, it's just this typical tangent, but yeah. This book single, remember last time I said, yeah, I definitely want to live here, blah, blah, blah? Because I liked the technology that the dragons had, and I was totally fine with being dragonstruck and having all my fantasies fulfilled, but this book made me not want to live there anymore because if there's a cartoonishly evil race out there that apparently can attack dragon homeworld at any time, they just don't.
+
+Rei (01:15:00): Warp bubble.
+
+Dillitan (01:15:11): I will say this. The amount of unique, varied alien species that are described in this book, I very much appreciate.
+
+Rei (01:15:22): Yeah, they're not all different flavors of human with pointy ears, human with thick forehead, Klingon and Vulcan. These are actually different aliens.
+
+Bantam (01:15:28): And they're not just fuck, man. That's because fuck you, Star Trek. Don't behave on Star Trek.
+
+Dillitan (01:15:29): We'll fight you.
+
+Rei (01:15:30): I'm hating on Star Trek.
+
+Dillitan (01:15:33): But the point is I'm on race side also.
+
+Rei (01:15:53): As much as I would be fine with just different flavors of bipedal animal, they went beyond that too. They have freaking beings of pure energy. They got bugs that are three people fused together into one because they all share one soul. They got amorphous oozes and all sorts of whatever the fuck, right?
+
+Dillitan (01:15:55): They had a spider alien that used.
+
+Rei (01:15:57): The spider guard, the spider guard that.
+
+Dillitan (01:16:01): Used webs to communicate and send information. And I was like, I love it.
+
+Rei (01:16:10): There's like an energy being that's falling that's always fighting with like a crocodilian or a bird or something.
+
+Bantam (01:16:17): I don't know, the argument was like, hey, we'll make them grow faster if we split the young in half. And you're like, no, I'll kill it.
+
+Rei (01:16:31): Two different energy beings. There's the ones that are idiots that wanted to split up the babies, and then there's the one that's a member of the royal guard that was helping protect the babies because she could exist on the same plane as the bad ones.
+
+Bantam (01:16:33): Oh, is it the one that's.
+
+Rei (01:16:39): The one that's always out of uniform, right?
+
+Bantam (01:16:39): Whatever.
+
+Rei (01:16:50): The number 65 or something. I don't fucking know. But, yeah. Point being is I'd still applaud the amount of different aliens. Thank God there's nothing that looks like humans.
+
+Bantam (01:16:51): Except for the humans.
+
+Rei (01:16:53): Except for the humans.
+
+Dillitan (01:16:55): But there's so few of them that it's okay.
+
+Rei (01:16:59): Yeah, once they enter the empire, they're so diluted, it's fine.
+
+Dillitan (01:17:35): Yeah, it feels like for every generic crowd, the humans make up the same proportional amount of. Because in most fantasy or Sci-Fi things, it's like if a crowd of 100 would have, like, 75 humans, and then the 25 are like, ten different alien species, it's always the humans dominate everything because they're fast breeders. So it's just a huge crowd of humans with a couple of aliens dotted in. But in this one, it feels like everyone is equally represented, and there's tons and tons of different alien races all over the place.
+
+Bantam (01:17:38): Look, the amount of shit I can do on dragon world, I totally live there.
+
+Rei (01:17:42): But it's expensive, though. It's where all the primo apartments are.
+
+Bantam (01:17:49): I'll make it work. I got a business idea that might earn me some scales, but I'm going.
+
+Rei (01:17:51): To deliver little debbie to the dragons.
+
+Bantam (01:18:09): Hell, yeah. They go crazy about potatoes. Taran Ascension, a member of our audience, which you can be a part of for $5 a month, asks, did the empress offer you on multiple occasions to fuck her?
+
+Rei (01:18:16): Yes, many times. All right. There's so much lines. I think we're done talking about the book. Yeah. Okay.
+
+Bantam (01:19:06): If you're going to start talking about the third one, I'm going to make a prediction of how it ends. So this is how every single Sci-Fi story always goes. When humanity starts, they get involved. They help out whoever aliens fighting, whatever. They join an alien side to find another alien side. But their interference neuters both sides, and then they become, like, the center stage of the galactic seat or whatever. It happened in fucking mass effect, basically how Star Trek started out. So I'm predicting humanity neuters both the dragons and the cats, their power, the empire's power or whatever, and then they become, like, the leading galactic influence.
+
+Rei (01:19:10): Humans must be the main character. Yes.
+
+Dillitan (01:19:42): I mean, that's usually how it ends. Humans always fucking take over everything. I don't really have a prediction aside from my prediction for book three is just that basically, it's going to be more of the same. It's going to be more of them trying to peacefully welcome the cats into whatever, and the cats constantly attacking and them going, why won't they just listen and repeat 30 fucking times throughout the entire book and then end on a cliffhanger?
+
+Rei (01:20:27): All right, so those are your predictions. I'll get into the third book in a second. Before then, let's do the normal close out for the people that want to leave rather than being spoiled because maybe they plan on reading it or whatever. Right. The third book will be post credit, basically. So in that case, thank you for joining us, everyone. As we talked about the second book of the series, the Dragon Empire series, Guardian of Empire. Stick around after the credits for me to just try and speed run through some of the key points of the third book, dawn of Empire, and why I didn't like it. But, yeah, if you'll be leaving and just joining us next time, what are we doing next time, guys?
+
+Dillitan (01:20:29): A movie or tv show or video game?
+
+Bantam (01:20:33): I got two movies I was going to suggest. Okay, fly to dragons.
+
+Rei (01:20:37): I was like, we can do a movie or we can do a game. I got some games. If you don't want to do movie.
+
+Bantam (01:20:53): Let me suggest the movies and you suggest the games, and then we'll see what happens. Okay, my movie, fly to dragons, because of how stupidly shaped those damn balloons are. And I think it was Dragon Knights 2020.
+
+Rei (01:20:56): I think I saw that at Walmart a while back.
+
+Bantam (01:21:00): Yeah. Dumpster, bargain bin, dive.
+
+Rei (01:21:03): Yeah, it's in the trash. Dvds bin.
+
+Bantam (01:21:15): Yeah. Knights towns under attack or siege by something. So he's got to go find a dragon to team up with him to go save his village, town, kingdom, whatever. And those are the only two.
+
+Rei (01:22:15): Okay, so my suggestions for games we could do, because everyone's talking about Larian with bottles, gate three. We could do divinity, dragon Commander. Or we could do a game called Dragon Creek, which is a tiny, tiny little indie game where the point of that game is you own a farm that can raise dragons, and you can wash them and feed them and train them in certain things to raise their stats. Because I think there's a tournament, but I only played, like, I think 20 minutes of it. Before. It's a tiny little sprite game, side scroller. It looks and plays a lot like yield flash games like that one that you did before diluten, where you're a baby and you eat an element, and that determines how you grow up or whatever. Yeah, that's the art style that it has. Divinity. Dragon Commander is a political visual novel for half the game, and the other half is RTS, where you get to play as a dragon and banter.
+
+Bantam (01:22:17): Doesn't want to do that then.
+
+Dillitan (01:22:20): No, actually.
+
+Rei (01:22:22): Dragon with a jetpack.
+
+Dillitan (01:22:51): It's a dragon with a jetpack. I'd be willing to give it a try because it's a larian game, and the only larian games I've played is I played, like, 20 minutes of divinity, and then I played hundreds and hundreds of hours of divinity. Original sin two, and that's it. And Balder skate three. I've never played any of their other games, and I know that dragon commander is one of them. I'm looking at steam right now. All reviews, mostly positive. Recent reviews, mixed. I don't know why.
+
+Rei (01:22:58): Probably because the people who played it before really liked it. And all the mixed stuff now is new people coming from Bottlesgate three, and they're like, wait, this is weird.
+
+Dillitan (01:23:00): That's probably actually true.
+
+Rei (01:23:09): Yeah, I would push for that because it's, quote, topical, but by the time this comes out, it'll be, like, two months from now. So it won't be topical anymore. So it's like, what ifs?
+
+Bantam (01:23:14): Trust me, Balder's gate is not going away anytime soon. That's going to be around for a while.
+
+Rei (01:23:16): Should we do Dragon commander then?
+
+Dillitan (01:23:17): Yeah.
+
+Bantam (01:23:18): For Dragon commander, yeah.
+
+Dillitan (01:23:31): Let me see if I can find some sales. Saw this review. Jetpack dragon. Pew, pew, pew, pew, pew. Flames and fireballs, jetpacks. There's also a decent story, and it seems like combat should be better, but whatever. Jetpack noises. Seven out of ten with dragon again.
+
+Rei (01:23:57): Yeah. From what I understand, half the game is the combat with the dragon. The other half is you on a ship dealing with politics, talking to representatives from the four main nations. And depending on your choices, depends on the ending of the game in Laryn style. Right? Different ending slides. All right, so that's what we'll do next time. We may record it a week late because I understand Dillatan might be super busy in, like, a week and a half or something.
+
+Bantam (01:24:06): Two of my dollar generals are remodeling, and the other two have a visit from a very important person flying from private jet to Jacksonville private jet.
+
+Rei (01:24:17): So that episode might be recorded a bit later, but because I'm behind on uploads anyway, it shouldn't affect the upload time. This also might be. Let me look at the calendar real fast.
+
+Bantam (01:24:20): This would have been important to you if you subscribe for $5 a month.
+
+Rei (01:24:36): I know, right? There's a good chance that next episode is also the last one we record for like, five, six weeks. Because again, comic tober, I'm going to put the podcast on hold so that we can dedicate all of our mental energy towards trying to do our own little nanorimo.
+
+Dillitan (01:24:38): Yes.
+
+Rei (01:25:09): All right, so that's the plan, listeners. If you want to get into contact with us, to suggest anything we cover, to ask us any questions that you want to know the answers to that we didn't talk about on the show. Like you really want to know. Hey, why didn't you guys talk about freaking character number 35 or whatever, right? Or just want to just say hi and how much you love us? Because we like the praise bantam. How can they get in contact with us?
+
+Dillitan (01:25:13): All right, so we have a x at official.
+
+Rei (01:25:16): Oh, my God, it's official now.
+
+Dillitan (01:25:42): They did officially change it. We have Twitter. I refuse. It'll always be Twitter. We have Twitter at official. Uh, if anyone has any spare keys for blue sky, send an email. The email that you can send that to would be wadpodcastmail@gmail.com. We do have a patreon@patreon.com. Worldofdragonspodcast. And our discord will be linked in the show notes.
+
+Rei (01:25:49): All right, so for those of you who are leaving. Goodbye. Say goodbye, you two.
+
+Dillitan (01:26:20): Bye bye.
+
+Rei (01:26:28): All right, so right off the gate, the first problem I have with book three is half of the book is goddamn time travel.
+
+Dillitan (01:26:31): Oh, God. Time travel.
+
+Rei (01:27:43): Time travel. So it turns out that the reason why. So a lot of knowledge in this book mark has archived away. So he can't see it anymore. Not see it, but he can't remember it anymore. It's like in deep, deep, dark recesses of his archive. So turns out that the reason why golden scales are banned from using gates is because the gates can go through time as well as space, right? And that causes time paradoxes, of course. And that's what causes fabric for spacetime to crumble and fall apart. And the problem is, once a golden scales is aware that they can go back in time, it starts happening automatically. Because if you even have the thought of, I could go back to yesterday to fix this. Even if you don't do it. The fact that you had the thought to do it means you have already started to unravel spacetime. So it actually is extremely dangerous for golden skills to gate. And that's why all knowledge of it and all, if you even do it, puts you to death because we cannot risk that. All right? So there's some element of truth to that.
+
+Bantam (01:27:48): So the lie was a lie was. The lie about being a lie is a lie.
+
+Rei (01:28:01): Well, again, he didn't know because he locked the knowledge away because he can't let anybody know on accident that it can happen at one point. What's the name of the golden skills that they end up maiming?
+
+Dillitan (01:28:03): I can't remember their fucking names.
+
+Rei (01:33:49): I don't know. Well, the first part of the book starts out fine because it's more vacations and scenes and it's the Jiang and the emperor, whatever his name is, with the golden scale dragon. Them trying to have kids. Yeah. Miko and Haruka. Thank you, Trisnix. It's them trying to have kids. So they're trying for that. And then they're just doing other lovey dovey stuff and they're being good spouses, and it's really great. I love how it starts. But then they start to dismantle the cat empire. They're dismantling it by being nice and friendly to all of the cat subservient species and getting them to join the empire and leave the republic. Right. That's how we're dealing with the cats, by stealing all their friends. There is then an attempt on Jean's life or just people. There's an attempt on the life which involves basically a small living sun going supernova, right? Miko the golden scale saves them by grabbing the sun and gating to some far away random spot like it was a panic gate. She doesn't know where she went because it's a panic gate in the middle of nowhere, right? So that when it goes supernova, it doesn't damage anything. Right. There's now a six or seven chapter long. Oh, dear God, she's dead. We have to find her. We have three months to find her before her stone de attunes and she's gone forever. And as much as I like emotional drama and stakes, like. Like I like when there's emotional aspects in books, this was just done so well that it got really. Enough already. Stop complaining. Like, oh, my God, Gianni is such a whiner. I get you love her, but Jesus Christ, right? We're talking about levels of depression where she doesn't eat, she doesn't sleep, and she's just out in the middle of space just looking for her. And she's getting all these other golden scales to help because they can apparently see around them in 360 degrees for, like, light years through matter or whatever. So there's a big, sloggy chunk of that. And then they find out through one of Jion's friends from Earth time, I think it was one of her old spouses, finds a japanese tomb that has some stuff in it. And when they show it to her, it turns out that there's a message from Miko there. Turns out Miko accidentally went back in time to feudal go. They. They question mark, like, what the fuck? And Mark looks in the archives and finds out information that, yes, the golden scales can gate through time. They then have to go to the edge of the universe to find the platinum dragon. I don't remember what they call him before. They see that he actually is a dragon, but they go to find him to get him to send them back in time to try and rescue Miko. He's sitting in some weird stasis bubble because spacetime around him is so terribly damaged. Because, again, him being aware that he can go through time means he's just damaging spacetime by existing. So if he's in stasis to where he technically doesn't exist while he's in stasis because time has paused for him, I guess it slows down the deterioration. He gets a little salty, but he sends them back. They go back in time. Now we have like, 15 chapters of them being in really early age, feudal Japan trying to find Miko. When they get her and they bring her back to the future, the platinum dragon says that, all right, well, now she has to live here in stasis with me forever because the fact that she is now aware she can go back in time, she's going to damage spacetime around her as well. And in fact, it does start to happen when they are back at Dragon Homeworld. There's earthquakes because spacetime is starting to rip. I think the book ends with them having to actually abandon the planet because it gets way too damaged around there. They're like, no, there must be another way. We can't. To rescue her just to lose her again because she's got to live in stasis. And it turns out that, well, if you put her into a body that is not a golden scale, so she can't gait, she won't damage anything around her anymore. But again, it takes five years to attune to a soul stone, and she doesn't have her soul stone. I forget exactly why, but she can't exist for five years, damaging spacetime around her. So what they come up with is they put into stasis, and once a year, they will destasis her for an hour and then put her back into stasis. And so she's got to build up that five year attunement period an hour at a time, which is going to be about 10,000 years, which is where that comes in. We have to wait 10,000 years for her to be able to go into new bodies so she can actually live with her spouses. Now what? And John and Haruka fight over who gets to be in stasis with her because they can't live without her. They love her too much. Right? And they end up agreeing that they're going to trade off. Like, Jiang will live for a year while Haruka is in stasis, and then when they go to wake up Miko for the hour for that year, then Jiang will catch up those two on what has happened during this year, and then they'll swap places, and Jeong will sleep for a year with Miko while Haruka goes and exists for a year. The plan is very complicated. And again, the idea that we're just going to accept 10,000 years of nonsense just because you want to live with this one particular spouse, it's like, I get you love them, but that seems insane, not to mention how your family is going to handle that. Like, what the fuck? But apparently 10,000 years, who fucking cares?
+
+Dillitan (01:34:33): There is one thing that I got reminded of, and you can feel free to slot this in in the episode at some point. The whole soul stone thing is also bullshit, and I hate it because when you're dead, your soul stone de attunes in 48 hours. So let's say you're on some alien planet and you get murdered by the wildlife and no one knows where you are. I mean, the soul stone doesn't make you immortal because no one's going to find your soul stone to put it into a new body. I think it's absolutely fucking stupid that the soul stone is deatune. So you got to spend five years with this thing lodged in your head, and then you die, and you have 48 hours to get it into a new body ASAP.
+
+Rei (01:36:18): Yeah. So, yeah, the soul stone deotunes after 48 hours. I may be remembering the book wrong, and they only have 48 hours to find her, even though they stretch that over, like, four chapters of the book, whatever. I think I might be right on. They have 30 days, and I think that comes down to how long she can survive in the vacuum of space before she would die. And then the 48 hours on top of that, it might be something weird like that. I don't know. But, yeah. A couple other things of note happened in the book for Jiang's mother, whatever her name was. Cookie, was it? Cookie. That was her nickname, wasn't it? I don't fucking know. She decides that whatever her name is, she doesn't want to live forever. She's bored, she's got nothing to do. And this is why I mentioned the human psyche cannot handle immortality, because she makes the decision, I'm going to willingly take out the soldier so that next time I die, it happens for real. That apparently just happens somewhat often. They have an actual ceremony for it where people say, I choose the true death or whatever, and it's a fun little scene. It makes Jeong really sad. But the idea is that it reminds me of the good place where they're in heaven, but they're brain dead. Because eternity of happiness is like, once they give them the option of ending forever, then the life comes back and they're like, oh, this is amazing. Because they have an ending in sight. And that just had kind of. I felt like that tied in really well to human psyche cannot handle immortality. You need to have eventually an end. Right? But, yeah, that's the book, and I don't like it because it's time travel. Yeah.
+
+Bantam (01:36:27): I don't think I've ever seen any piece of Sci-Fi media that handles time travel well. None of them do.
+
+Rei (01:36:59): To answer trace next real fast, so the story doesn't really end. No, book three ends. Like, the last page of the book ends with them saying, all right, so Miko is going to be in stasis, in and out for 10,000 years. Harika and I are going to swap back and forth every year, but that's fine. We'll just kind of deal with it, and boom, that's the end of the book. It ends at the start of the 10,000 year wait when they decide that's what we're going to do, but you don't get to see any of it, and you don't get to see any of the after the fact. Yeah, I didn't much care for it.
+
+Dillitan (01:37:02): No, it sounds stupid.
+
+Rei (01:38:42): It sounds fine. If you enjoy early level feudal Japan, you kind of want to see it through their eyes. It's kind of interesting. Oh, right, the other thing. So Haruka and Jiang go back to feudal Japan with a mark sphere, right? And while they're back there with him, they're talking and they're discovering stuff, and it turns out that mark has existed since the dawn of time. He just happened into being. The idea being that in an infinite universe with particles being randomly scattered in whatever, know, the idea of Giov, monkey, typewriter, and eventually Shakespeare. Right. The particles just happened to coalesce in the perfect configuration to make mark. So he's existed since the beginning of time just through sheer lucky happenstance. He spent a couple millennia figuring out how to alter stuff around him, and then he started to build his bodies and whatever. He's effectively the God of the universe, but he's the machine. He existed since forever. Turns out that he actually created the dragons because he needed something to be able to carry him around through space so that he didn't go crazy, so he could get his drama right. So he created the dragons because the platinum dragon calls him the creator. And his plan is to. He's like, I really like you, Jiang. My plan is to eventually figure out a way to travel between universes so that when this one ends through entropy, heat, death, all that, whatever, right? Whether it's in the big freeze or the big crunch, when this universe ends, I'm going to bring you and some of my other favorite mortals soul stones with me into the new universe to keep you around forever. So Mark is God. Hooray.
+
+Bantam (01:38:51): You know, I can kind of see that coming. Basically, he controls too much to not have.
+
+Rei (01:38:57): Yeah, it's kind of funny that if he's effectively God, he's still being thwarted at every turn by the cat's nanomachines.
+
+Dillitan (01:39:07): Yeah, the nanomachines are terrible. The nanomachines. Just being able to effectively undo everything that is being done is kind of frustrating.
+
+Rei (01:40:16): Yeah. At one point, the cats find another AI that's, like, on par with Mark. Kind of, sort of. It's kind of just floating in some desolate, dare like corner of the galaxy. They suspect that AI went crazy and destroyed the people who built it because it's kind of just sitting there. Whatever. And Mark gets pissed, like, there can be no other ais. I must be the only one, because she will destroy all of you. And I love you guys. I'm going to keep you safe and all that. Right? So Mark, like, declares war on this AI, but he gets his butt kicked by it. They eventually trick the AI into going inside a ship and then having one of the golden skills gate it back to the edge of the galaxy where it can't hurt anybody. They don't actually beat it. They don't destroy it. They just have to trick it. So the point is, even though Mark is, quote, God, he gets his butt kicked by other machines all the fucking time, which I felt was really weird. It's like all or nothing. If you're going to say he's effectively the God in this story you've written, then make him all powerful and he can beat everything else, right? Not like, whatever. I don't know. But it's just funny because when he discovers the other AI and he charges at it for battle the first time before he gets his butt kicked, he says, I will not let you hurt my children. Which I thought was a fun little foreshadow.
+
+Dillitan (01:40:35): Yeah, it seems like a good call. Not doing book three, time travel, is always so fucking frustrating because if it's not done slapstick and very minimally, then it starts to get really fucking frustrating, because then at that point, you're like, well, why don't you just go back and fix all the problems and make.
+
+Bantam (01:40:38): Sure that she gets more holes than cheese?
+
+Rei (01:42:49): You can't go back in time to fix all the problems because then you destroy spacetime. See, this was okay. Like, this explanation of time travel was fine because you explained why you can't do that. So I can accept that I didn't like it, because, again, I was reading this book to have dragons in space, dragon civilization, dragon society, and this book specifically, I want to see more dragon spouse, right. With the kids and all that. Right? That's what I wanted. That's what I read the book for. And instead, the author is like, nope. Slaps out of your hand. You're reading this book in feudal Japan with no technology whatsoever. And I'm like, that's not what I signed up for. Yeah, it was a big ass gotcha that I did not like. Also, Miko, the golden scales ends up having a kid. It's hierarchy's kid. He ends up being a platinum dragon as well. Turns out, know, back in Brooklyn, they explained when a dragon has a kid with whatever, it's a dragon scale, it's half breed, right? And then if that half breed has a kid with a dragon, it becomes a dragon, right? Turns out that if the golden scale has a kid with a half dragon, the dragon that comes out of that is always 100% a platinum dragon, which I guess is supposed to be like a golden scale, able to gate, but maybe, like more strongly, more intensely, whatever. Because the only other existing platinum dragon is the one at the edge of the universe in stasis. But, yeah, so the kid's got asleep for 10,000 years, too, so he can get put into a new body. And in fact, they also decree all golden scales in the dragon Empire must be put into new bodies. You cannot be golden scales anymore. We can't tell you why, but it's got to happen. And there's a couple of golden scales kids that have come about from other pairings because I think after Jiang and Haruka married Nico, a couple other people married some dragon scales, some golden skills as well. So there's a couple of golden scale kids that are like, well, I'm going to do something about them. We can either just kill them because they can exist and they haven't lived long enough to attune to their soul stone, or we can stasis them as well, but they never really touch on what they're going to do with that.
+
+Bantam (01:42:56): This whole time, a golden skill. Never mated with half breed and created a platinum.
+
+Rei (01:44:08): No, they never got married before because I think they assumed they were like a lesser species, which is why they were servant class. Like, they weren't allowed to have partners and have kids. There are a few good parts about the book. For example, seeing Mark get so protective over, quote, his children was kind of fun. A lot of the romantic dating stuff in the first half was fun. I just didn't like the back in time sequence because I didn't like the feudal Japan, it's not what I signed up for. But towards the end of that, once we see Miko and Haruka's kid because she got zapped back in time while she was basically pregnant with the egg. So he has only ever lived in the feudal Japan period. But so once we see him and find out that, oh, you're my dad and whatnot, and then we bring him to the future, and he's like, you took someone from feudal Japan into the deep, far future with technology like Mark and whatnot, it's like there's a bit of a shell shock there, which was kind of fun to see. So there were some fun points I liked, but overall, the book was, if I reread it, it's going to be in, like, five years. It's not going to be something I read very often. Yeah, there's my rant. Do you two want to comment anything before we close out for real this time?
+
+Bantam (01:44:18): No time travel should only be bad unless it's Terminator one and two.
+
+Dillitan (01:44:19): All right. Bye, everybody.
+
+Rei (01:44:19): Goodbye.
+
